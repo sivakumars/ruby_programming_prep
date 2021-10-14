@@ -22,3 +22,4 @@ p "Before no_mutate method: #{a}"
 p no_mutate(a)
 p "After no_mutate method: #{a}"
 
+#some methods mutate the caller and some don't - refer to the documentation of the methods

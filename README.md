@@ -1,2 +1,4 @@
 # ruby_programming_prep
-Exercises in the LS prep book
+Solutions to the exercises in the ruby programming book of LS.
+
+This repository contains a folder for each chapter of the book.

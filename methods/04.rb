@@ -4,4 +4,4 @@ def scream(words)
   return
 end
 
-p scream("Yippeee")
+p scream("Yippeee") #returns nil
